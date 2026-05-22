@@ -91,12 +91,10 @@ Example:
 
 ```properties
 
-```
 gemini.api.key=YOUR_API_URL
 gemini.api.key=YOUR_API_KEY
 
----
-
+```
 ### 4. Run the Application
 
 ```bash
@@ -168,7 +166,3 @@ Dharanipathi Pala
 GitHub: https://github.com/dharanipath
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
