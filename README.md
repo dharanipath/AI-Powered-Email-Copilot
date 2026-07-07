@@ -1,10 +1,10 @@
-# Email Copilot
+# AI-Powered Email Copilot
 
 AI-powered real-time email reply generator built using Spring Boot and Gemini AI.
 
 ## 🚀 Overview
 
-Email Copilot is an intelligent email assistant that generates professional and context-aware email replies in real time. The application analyzes incoming email content and uses Google's Gemini AI model to generate smart responses instantly.
+AI-Powered Email Copilot is an intelligent email assistant that generates professional and context-aware email replies in real time. The application analyzes incoming email content and uses Google's Gemini AI model to generate smart responses instantly.
 
 This project demonstrates the integration of Generative AI APIs with a full-stack backend application using Spring Boot.
 
