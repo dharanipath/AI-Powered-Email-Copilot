@@ -20,9 +20,6 @@ public class EmailService {
         @Value("${gemini.api.key}")
         private String apiKey;
 
-        // @Value("${gemini.api.image}")
-        // private String apiImageUrl;
-
         private final WebClient webClient;
 
         public EmailService() {
@@ -30,8 +27,7 @@ public class EmailService {
         }
 
     public String generateEmailReply(EmailRequest request) {
-        // Implement the logic to generate an email response based on the request
-        // This is a placeholder implementation and should be replaced with actual logic
+
         String prompt = buildPrompt(request);
 
         Map<String, Object> payload = Map.of(
